@@ -9,6 +9,10 @@ This project models the database needs of a nonprofit organization using SQL. Th
 - Records items and donations.
 - Includes sample data and sample queries for analysis.
 
+## 🗺️ ER Diagram
+
+![ER Diagram](EER%20Diagram.png)
+
 ## 🧱 Files
 
 - `schema.sql`: Defines the tables and relationships.
