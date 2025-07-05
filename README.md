@@ -13,14 +13,4 @@ This project models the database needs of a nonprofit organization using SQL. Th
 
 ![ER Diagram](EER%20Diagram.png)
 
-## 🧱 Files
 
-- `schema.sql`: Defines the tables and relationships.
-- `insert_sample_data.sql`: Inserts example data for testing.
-- `queries.sql`: Demonstrates sample queries.
-
-## 🏗️ How to Use
-
-1. **Create the database**:
-   ```sql
-   CREATE DATABASE nonprofit;
